@@ -8,7 +8,7 @@ Format: ![Alt text](https://sun9-15.userapi.com/impg/TlJpFLTGs8WECyigHfZC9953TqE
 * 2010.g. – 2020.g. - Rīgas 53.vidusskola.
 * 2020.g līdz šai dienai PIKC Rīgas Valsts tehnikums programmēšanas tehniķis 1.kurss.
 ## Valodu zināšanas
-| Valoda      | sapratne   |runāšanā  |rakstīšanā  | aīšanā  |
+| Valoda      | sapratne   |runāšanā  |rakstīšanā  | laīšanā  |
 | ----------- | -----------| -----------| ----------- | -----------|
 | Laviešu     | laba       | laba       | laba       | laba      |
 | Angļu       | laba       | laba       | laba       | ļoti laba      |
@@ -20,7 +20,7 @@ Format: ![Alt text](https://sun9-15.userapi.com/impg/TlJpFLTGs8WECyigHfZC9953TqE
 * No 2014 līdz 2020 nodarbojās profesionāli ar basketbolu komandā Pārdaugava
 ## Sasniegumi 
 * "Karate" Trīs sacensībās ieguva 1. vietu.
-* "Basketbols" Spēlēju pirmā divīzija
+* "Basketbols" Spēlēju pirmā divīzija 
 ## Darba pieredze 
 * Akciju sabiedrība ’’OLAINES ŪDENS UN SILTUMS’’
 No 02.07.2020 līdz 28.08.2020
